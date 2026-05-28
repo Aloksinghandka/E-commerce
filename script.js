@@ -9,7 +9,6 @@ if(bar){
     bar.addEventListener('click', () => {
         navbar.classList.add('active');
     });
-
 }
 
 /* CLOSE MENU */

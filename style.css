@@ -709,6 +709,13 @@ footer a:hover {
     line-height: 25px;
 }
 
+/* blog page */
+
+#page-header.blog-header{
+     background-image: url("img/banner/b19.jpg");
+    
+}
+
 @media (max-width: 799px){
 
     /* HEADER */
